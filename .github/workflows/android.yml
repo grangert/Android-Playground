@@ -46,4 +46,4 @@ jobs:
         packageName: family.granger.playground
         releaseFiles: app/build/outputs/bundle/release/app-release.aab
         track: internal
-        status: completed
+        status: draft
